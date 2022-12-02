@@ -46,7 +46,7 @@ header > p {
 h1, h2 {
     padding-left: 20px;
     font-family: idroid, sans-seri;
-    color: green;
+    color: rgb(0, 9, 128);
 }
 #cabeça {
     font-family: monospace, sans-serif;
